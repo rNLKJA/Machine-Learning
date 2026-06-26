@@ -1,0 +1,16 @@
+# Rendered / generated knitr output (do not reformat)
+*.html
+*.pdf
+
+# Archived originals
+_archive/
+
+# R Markdown source is handled by R tooling, not prettier
+*.Rmd
+
+# Common excludes
+node_modules/
+build/
+dist/
+.next/
+*.min.*
